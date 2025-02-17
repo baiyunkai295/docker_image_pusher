@@ -9,3 +9,4 @@ snowdreamtech/frps
 nginx:latest
 kylemanna/openvpn
 openvpn/openvpn-as
+gogs/gogs
