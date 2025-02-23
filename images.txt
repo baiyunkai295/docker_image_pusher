@@ -12,3 +12,4 @@ openvpn/openvpn-as
 gogs/gogs
 redmine
 mysql:5.7
+netdata/netdata
