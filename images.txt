@@ -13,3 +13,4 @@ gogs/gogs
 redmine
 mysql:5.7
 netdata/netdata
+gitea/gitea
