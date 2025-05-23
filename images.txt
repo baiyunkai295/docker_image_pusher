@@ -16,3 +16,4 @@ netdata/netdata
 gitea/gitea
 gitea/act_runner:0.2.11
 gitea/act_runner:nightly
+portainer/portainer-ce
